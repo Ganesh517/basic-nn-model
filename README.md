@@ -11,6 +11,7 @@ Regression helps in establishing a relationship between a dependent variable and
 
 ## Neural Network Model
 
+![dl](https://user-images.githubusercontent.com/75235006/187233064-bf144efd-99ad-481e-8e97-787010905c30.png)
 
 
 ## DESIGN STEPS
